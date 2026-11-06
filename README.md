@@ -1,5 +1,7 @@
 # Google Trends Scraper
 
+![Google Trends Scraper](https://raw.githubusercontent.com/smoldesk/apify-scrapers/main/assets/google-trends/banner.webp)
+
 A Google Trends API without a browser or login: interest over time, regions, cities, related queries and the Trending now list. Runs on [Apify](https://apify.com/smoldesk/google-trends-scraper).
 
 ## What you get
