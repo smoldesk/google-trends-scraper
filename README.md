@@ -10,7 +10,7 @@ A Google Trends API without a browser or login: interest over time, regions, cit
 - **By region and city**: countries, sub-regions, cities and US metro areas (DMA).
 - **Related queries**: top and rising, with `Breakout` or the percent growth.
 - **Comparison**: up to 5 terms in one chart, as Google Trends does it.
-- **Trending now**: current trending searches per country with search volume, percent increase, start time, categories and news articles.
+- **Trending now**: current trending searches per country with search volume, percent increase, start time, categories and related searches.
 - **Plain-English `summary`** of each result, ready to pass to an LLM.
 
 ## Run it
@@ -63,7 +63,7 @@ You can also paste Google Trends URLs into `startUrls`.
   "startedAt": "2026-10-13T16:50:00Z",
   "isActive": true,
   "categories": ["Sports"],
-  "news": [{"title": "Flick urges caution as Barcelona extend perfect start", "source": "ESPN"}]
+  "relatedSearches": ["galatasaray vs barcelona", "lamine yamal", "barca game"]
 }
 ```
 
