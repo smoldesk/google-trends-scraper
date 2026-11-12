@@ -69,12 +69,12 @@ You can also paste Google Trends URLs into `startUrls`.
 
 ## Pricing
 
-Pay per result. No monthly fee.
+Pay per result. No monthly fee. Prices drop on paid Apify plans.
 
-| Result | Per 1,000 |
-|---|---|
-| Keyword or comparison | $1.50 |
-| Trending now search | $0.50 |
+| Result (per 1,000) | Free | Starter | Scale | Business |
+|---|---|---|---|---|
+| Keyword or comparison | $1.50 | $1.50 | $1.30 | $1.15 |
+| Trending now search | $0.50 | $0.50 | $0.50 | $0.50 |
 
 A keyword Google has no data for comes back with `hasData: false` and is not charged.
 
