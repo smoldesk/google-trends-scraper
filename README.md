@@ -103,4 +103,4 @@ Yes. Set `trendingGeos` to country codes. Use `trendingHours` for the window and
 
 ## More scrapers
 
-Google Trends is one of 22 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
+Google Trends is one of 23 no-login scrapers by Smoldesk Studios. See the full list: [smoldesk/apify-scrapers](https://github.com/smoldesk/apify-scrapers).
